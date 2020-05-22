@@ -3478,11 +3478,11 @@ input, select, textarea {
 			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			content: '';
 			display: block;
-			height: 200%;
+			height: 5000px;
 			left: 0;
 			position: absolute;
 			top: 0;
-			width: 200%;
+			width: 5000px;
 		}
 
 		#banner .content {
